@@ -31,6 +31,10 @@ class ViewController: UIViewController {
     func newTestfunc3(){
     
     }
+    
+    func newfunc4(){
+        
+    }
 
 }
 
