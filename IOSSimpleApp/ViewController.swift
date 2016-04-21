@@ -19,7 +19,22 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    
+    func newTestFunc(){
+        //hrdfhsgdf
+    }
 
+    func newTestFun23(){
+        //sdgdfhdfsgdshf
+    }
+    
+    func newTestfunc3(){
+        //rdfghfgjhdrh
+    }
+    
+    func newfunc455(){
+        //dsrgpierughkusdhguodf
+    }
 
 }
 
