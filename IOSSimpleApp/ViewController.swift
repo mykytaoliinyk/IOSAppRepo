@@ -21,19 +21,19 @@ class ViewController: UIViewController {
     }
     
     func newTestFunc(){
-        
+        //hrdfhsgdf
     }
 
     func newTestFun2(){
-        
+        //sdgdfhdfsgdshf
     }
     
     func newTestfunc3(){
-    
+        //rdfghfgjhdrh
     }
     
     func newfunc4(){
-        
+        //dsrgpierughkusdhguodf
     }
 
 }
