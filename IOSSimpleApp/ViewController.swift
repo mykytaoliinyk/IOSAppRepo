@@ -24,7 +24,7 @@ class ViewController: UIViewController {
         //hrdfhsgdf
     }
 
-    func newTestFun2(){
+    func newTestFun23(){
         //sdgdfhdfsgdshf
     }
     
