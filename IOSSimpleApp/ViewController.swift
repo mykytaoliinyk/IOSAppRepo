@@ -24,6 +24,9 @@ class ViewController: UIViewController {
         
     }
 
+    func newTestFun2(){
+        
+    }
 
 }
 
