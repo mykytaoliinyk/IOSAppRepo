@@ -32,7 +32,7 @@ class ViewController: UIViewController {
         //rdfghfgjhdrh
     }
     
-    func newfunc4(){
+    func newfunc455(){
         //dsrgpierughkusdhguodf
     }
 
